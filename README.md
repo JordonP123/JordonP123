@@ -24,7 +24,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
-img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jordonP123&layout=compact&count_private=true&theme=gruvbox" />
+img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordonP123&layout=compact&count_private=true&theme=gruvbox" />
 
 <h2>📫 Reach me on</h2>
   <a target="_blank"href="https://www.linkedin.com/in/jordon-pruitt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
