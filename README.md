@@ -1,11 +1,8 @@
-### Hi there, I'm Jordon👋.  I am an aspiring Software Engineer!
+### Hi there, I'm Jordon👋.  I am a Passionate FullStack Software Engineer!
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning data structures and algorithms
 - 💬 Ask me about pair programming!!
 - ⚡ Fun fact: I had the most home runs on my travel ball baseball team when I was 13. 
-- 📫 Contact me below!<br></br>
-[![Gmail Badge](https://img.shields.io/badge/-jordonaren@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordonaren@gmail.com)](mailto:jordonaren@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordon-pruitt/)
 
 
 ## ⚡ Technologies
@@ -26,6 +23,9 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+<h2>📫 Reach me on</h2>
+[![Gmail Badge](https://img.shields.io/badge/-jordonaren@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordonaren@gmail.com)](mailto:jordonaren@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordon-pruitt/)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jordonP123.jordonP123)
 <!--
