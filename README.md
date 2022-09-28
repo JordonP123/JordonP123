@@ -1,9 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Jordon👋.  I am an aspiring Software Engineer!
 - 🔭 I’m currently working on my portfolio
 - 🌱 I’m currently learning data structures and algorithms
 - 💬 Ask me about pair programming!!
-- 📫 How to reach me: Email - jordonaren@gmail.com || Phone - 321-795-6920
 - ⚡ Fun fact: I had the most home runs on my travel ball baseball team when I was 13. 
+- 📫 Contact me below!
+-[![Gmail Badge](https://img.shields.io/badge/-jordonaren@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordonaren@gmail.com)](mailto:jordonaren@gmail.com)
+
 
 ## ⚡ Technologies
 
