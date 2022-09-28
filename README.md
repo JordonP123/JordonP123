@@ -1,4 +1,4 @@
-<h1>### Hi there, I'm Jordon👋.  I am a Passionate FullStack Software Engineer!</h1>
+<h1>Hi there, I'm Jordon👋.  I am a Passionate FullStack Software Engineer!</h1>
 <h4>🔭 I’m currently working on my portfolio.</h4>
 <h4>🌱 I’m currently learning data structures and algorithms.</h4>
 <h4>💬 Ask me about pair programming!!</h4>
