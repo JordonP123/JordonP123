@@ -24,8 +24,8 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 <h2>📫 Reach me on</h2>
-[![Gmail Badge](https://img.shields.io/badge/-jordonaren@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordonaren@gmail.com)](mailto:jordonaren@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordon-pruitt/)
+  <a target="_blank"href="https://www.linkedin.com/in/jordon-pruitt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:jordonaren@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jordonP123.jordonP123)
 <!--
