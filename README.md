@@ -22,6 +22,7 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=gitlogoColor=white)
 
 <h2>📫 Reach me on</h2>
   <a target="_blank"href="https://www.linkedin.com/in/jordon-pruitt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
