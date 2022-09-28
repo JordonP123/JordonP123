@@ -2,7 +2,7 @@
 <h4>🔭 I’m currently working on my portfolio.</h4>
 <h4>🌱 I’m currently learning data structures and algorithms.</h4>
 <h4>💬 Ask me about pair programming!!</h4>
-<h4>⚡ Fun fact: I had the most home runs on my travel ball baseball team when I was 13. </h4>
+<h4>⚡ Fun fact: I have won 3 small stakes poker tournaments and placed in 20+.</h4>
 
 
 ## ⚡ Technologies
