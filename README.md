@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning data structures and algorithms
 - 💬 Ask me about pair programming!!
 - ⚡ Fun fact: I had the most home runs on my travel ball baseball team when I was 13. 
-- 📫 Contact me below!
+- 📫 Contact me below!<br></br>
 -[![Gmail Badge](https://img.shields.io/badge/-jordonaren@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jordonaren@gmail.com)](mailto:jordonaren@gmail.com)
 
 
