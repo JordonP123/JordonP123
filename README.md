@@ -31,5 +31,7 @@
   <a href="mailto:jordonaren@gmail.com?subject=Hello%20Ileri,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=jordonP123.jordonP123)
+
+![Snake animation](https://github.com/JordonP123/JordonP123/blob/output/github-contribution-grid-snake.svg)
 <!--
 **JordonP123/JordonP123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
