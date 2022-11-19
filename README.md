@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Jordon👋.  I am a FullStack Software Engineer!</h1>
-<h4>🔭 I’m currently working with a team on a project for an orinization names Family Promise.</h4>
+<h4>🔭 I’m currently working with a team on a project for an orginization named Family Promise.</h4>
 <h4>🌱 I’m currently learning data structures and algorithms.</h4>
 <h4>💬 Ask me about pair programming!!</h4>
 <h4>⚡ Fun fact: I have won 3 small stakes poker tournaments and placed in 20+.</h4>
