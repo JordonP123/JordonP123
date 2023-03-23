@@ -1,7 +1,7 @@
 <h1>Hi there, I'm Jordon👋.  I am a Full-Stack Software Engineer!</h1>
 <h4>🔭 I’m currently working with a team on a project for an orginization named Family Promise.</h4>
 <h4>🌱 I’m currently learning TypeScript.</h4>
-<h4>💬 Ask me about React, JavaScript or Node!</h4>
+<h4>💬 Ask me about React!</h4>
 <h4>⚡ Fun fact: I have won 3 small stakes poker tournaments and placed in 20+.</h4>
 
 
