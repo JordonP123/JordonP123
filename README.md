@@ -26,7 +26,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordonP123&layout=compact&count_private=true&theme=gruvbox" />
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=JordonP123&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=JordonP123&show_icons=true)
 
 <h2>📫 Reach me on</h2>
   <a target="_blank"href="https://www.linkedin.com/in/jordon-pruitt"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
