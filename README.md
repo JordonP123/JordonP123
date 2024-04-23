@@ -24,7 +24,7 @@
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&logoColor=white)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordonP123&layout=compact&count_private=true&theme=gruvbox" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordonP123&layout=compact&theme=gruvbox" />
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=JordonP123&show_icons=true)
 
