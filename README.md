@@ -1,5 +1,5 @@
 <h1>Hi there, I'm Jordon👋.  I am a Full-Stack Software Engineer!</h1>
-<h4>🔭 I’m currently working as a SWE with Go Links!</h4>
+<h4>🔭 I’m currently working as a SWE with Construct Connect!</h4>
 <h4>🌱 I’m currently learning about AI</h4>
 <h4>💬 Ask me about React!</h4>
 <h4>⚡ Fun fact: I have won 3 small stakes poker tournaments and placed in 20+.</h4>
